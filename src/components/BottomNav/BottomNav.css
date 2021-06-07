@@ -1,0 +1,55 @@
+.bottom-box{
+    width: 1200px;
+    margin: 0 auto;
+    height: 300px;
+   
+    margin-top: 20px;
+}
+.bottom{
+    width: 100%;
+    background-color: rgb(58,69,112);
+}
+.imgBox img{
+    width: 150px;
+    height: 40px;
+    margin-left: 60px;
+   
+}
+.imgBox {
+    width: 1200px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.text{
+    width: 960px;
+    margin: 0 auto;
+    margin-top: 90px;
+
+    text-align: center;
+  
+}
+.text a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 13px;
+}
+.text a:hover{
+   text-decoration: underline;
+}
+.copy{
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.ban{
+    margin-top: 30px;
+    color: white;
+    font-size: 13px;
+}
+.ban span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
